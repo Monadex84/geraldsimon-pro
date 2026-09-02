@@ -5,8 +5,6 @@ const path = require("path");
 // https://vitejs.dev/config/
 module.exports = defineConfig(async ({ mode }) => {
   const plugins = [react()];
-  // https://vitejs.dev/config/
-  require('./public/vite.cookie');
   // Only load componentTagger in development mode using dynamic import
   if (mode === "development") {
     try {
