@@ -6,7 +6,7 @@ Frontend application for MoCoreX - Next-Generation DeFi Platform.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/danielcartertechmail-glitch/MoCorex-Frontend.git
+git clone https://github.com/Monadex84/geraldsimon-pro.git
 cd MoCorex-Frontend
 
 # 2. Install dependencies
